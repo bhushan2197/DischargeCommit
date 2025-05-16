@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DiscoveryClientResultsFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Results>
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.DiscoveryDocumentReference" url="https://abc.tmc.gov.in/m_Webemr_service/WebEmrService.asmx?disco" filename="WebEmrService.disco" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="https://abc.tmc.gov.in/m_Webemr_service/WebEmrService.asmx?wsdl" filename="WebEmrService.wsdl" />
+  </Results>
+</DiscoveryClientResultsFile>
